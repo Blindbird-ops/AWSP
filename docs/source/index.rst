@@ -1,7 +1,7 @@
-*AWS Cloud Quest: Cloud Practitioner!*
+AWS Cloud Quest: Cloud Practitioner!
 ===================================
 
-*OVERVIEW*
+OVERVIEW
 
 .. note::
 

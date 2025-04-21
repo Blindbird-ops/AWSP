@@ -2,9 +2,9 @@ AWS Cloud Quest: Cloud Practitioner!
 ===================================
 
 By
-*Captain Faustino*
-*Jelly Eldo*
-*Arnel Dalucapas*
+*Captain Faustino,*
+*Jelly Eldo,*
+*Arnel Dalucapas, and*
 *Nelvy Ortega*
 
 **OVERVIEW**

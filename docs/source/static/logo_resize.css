@@ -1,12 +1,39 @@
-/* Styles to control the size of the logo in the sidebar */
-/* Target the logo image within the sidebar header */
-.wy-side-nav-search .header img.logo,
-.wy-side-nav-search .header img { /* Added img selector for broader compatibility */
-    max-width: 50%; /* Ensure the logo doesn't exceed the sidebar width */
-    max-height: 100px; /* Set a maximum height (adjust this value as needed) */
-    height: auto; /* Maintain the image's aspect ratio */
-    margin-bottom: 10px; /* Add some space below the logo */
+/*
+This CSS file is used to control the size of the logo
+in the sidebar of the Sphinx Read the Docs theme.
+*/
+
+/* Target the logo image within the sidebar search section */
+div.wy-side-nav-search img.logo,
+div.wy-side-nav-search img {
+    /* Set the maximum width to 100% of its container */
+    /* This ensures the logo doesn't overflow the sidebar horizontally */
+    max-width: 100%;
+
+    /* Set a maximum height for the logo */
+    /* Adjust this value (e.g., 150px, 250px) until the logo looks good vertically */
+    /* 200px is a common starting point */
+    max-height: 200px;
+
+    /* Maintain the image's original aspect ratio */
+    /* This prevents the logo from looking stretched or squashed */
+    height: auto;
+
+    /* Add some space below the logo to separate it from the search bar or content */
+    /* Adjust or remove this margin as needed */
+    margin-bottom: 10px;
+
+    /* Ensure the image is displayed as a block element for better control */
+    display: block;
+
+    /* Center the logo horizontally if it's narrower than the sidebar */
+    margin-left: auto;
+    margin-right: auto;
 }
 
-/* You might need to adjust the max-height value (e.g., 150px, 250px)
-   until it looks good in your sidebar. */
+/* You might also consider adding styles for the header link itself
+   if the clickable area around the logo needs adjustment */
+.wy-side-nav-search .header {
+    text-align: center; /* Center the content in the header area */
+    padding: 15px; /* Adjust padding around the logo if needed */
+}

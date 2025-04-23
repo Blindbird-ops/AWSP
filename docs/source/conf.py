@@ -1,15 +1,15 @@
 # Configuration file for the Sphinx documentation builder.
 
-# -- Project information
+# -- Project information -----------------------------------------------------
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Lumache' # Your project name
+copyright = '2021, Graziella' # Your copyright
+author = 'Graziella' # Your name
 
 release = '0.1'
 version = '0.1.0'
 
-# -- General configuration
+# -- General configuration ---------------------------------------------------
 
 extensions = [
     'sphinx.ext.duration',
@@ -27,9 +27,20 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
+# -- Options for HTML output -------------------------------------------------
 
 html_theme = 'sphinx_rtd_theme'
 
-# -- Options for EPUB output
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files.
+# This path is relative to the directory containing conf.py (docs/source/)
+html_static_path = ['_static']
+
+# The logo shown in the side bar.
+# Place your logo file inside the _static directory (docs/source/_static/)
+# The path here is relative to the directory containing conf.py (docs/source/)
+html_logo = '_static/aws_logo.png' # Make sure 'aws_logo.png' is the actual filename of your logo
+
+
+# -- Options for EPUB output -------------------------------------------------
 epub_show_urls = 'footnote'

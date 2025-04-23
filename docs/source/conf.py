@@ -34,12 +34,12 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files.
 # This path is relative to the directory containing conf.py (docs/source/)
-html_static_path = ['_static']
+html_static_path = ['static']
 
 # The logo shown in the side bar.
 # Place your logo file inside the _static directory (docs/source/_static/)
 # The path here is relative to the directory containing conf.py (docs/source/)
-html_logo = '_static/aws_logo.png' # Make sure 'aws_logo.png' is the actual filename of your logo
+html_logo = 'static/aws_logo.png' # Make sure 'aws_logo.png' is the actual filename of your logo
 
 
 # -- Options for EPUB output -------------------------------------------------

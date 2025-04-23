@@ -2,8 +2,8 @@
 /* Target the logo image within the sidebar header */
 .wy-side-nav-search .header img.logo,
 .wy-side-nav-search .header img { /* Added img selector for broader compatibility */
-    max-width: 100%; /* Ensure the logo doesn't exceed the sidebar width */
-    max-height: 200px; /* Set a maximum height (adjust this value as needed) */
+    max-width: 50%; /* Ensure the logo doesn't exceed the sidebar width */
+    max-height: 100px; /* Set a maximum height (adjust this value as needed) */
     height: auto; /* Maintain the image's aspect ratio */
     margin-bottom: 10px; /* Add some space below the logo */
 }

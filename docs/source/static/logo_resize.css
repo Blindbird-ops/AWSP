@@ -8,12 +8,12 @@ div.wy-side-nav-search img.logo,
 div.wy-side-nav-search img {
     /* Set the maximum width to 100% of its container */
     /* This ensures the logo doesn't overflow the sidebar horizontally */
-    max-width: 100%;
+    max-width: 30%;
 
     /* Set a maximum height for the logo */
     /* Adjust this value (e.g., 150px, 250px) until the logo looks good vertically */
     /* 200px is a common starting point */
-    max-height: 200px;
+    max-height: 60px;
 
     /* Maintain the image's original aspect ratio */
     /* This prevents the logo from looking stretched or squashed */

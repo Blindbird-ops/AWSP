@@ -24,5 +24,5 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   usage
-   api
+   Introduction
+   Preperation steps

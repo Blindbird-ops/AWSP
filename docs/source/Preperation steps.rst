@@ -19,8 +19,13 @@ System equipment meets the following requirements:
 * Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or 2.0, WASM)
 * Mobile browsers are not supported.
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Amazon Account:
+
+   Create an account
+
 Content
 -------
 
-* Create Amazon account
 * Login to AWS Cloud Quest: Cloud Practitioner with Amazon account

@@ -11,14 +11,14 @@ Steps to create an Amazon account
 ---------------------------------
 
 1. Open the app or go to the official website `Amazon <https://www.amazon.com/>`_.
-.. image:: static/Signup Part 1.png
+.. image:: Signup Part 1.png
    :alt: Screenshot of Amazon Website
    :align: center
    :width: 600px
    :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
 
 2. Select **Create a new Amazon account**.
-.. image:: static/Signup Part 2.png
+.. image:: Signup Part 2.png
    :alt: Screenshot of Amazon Website
    :align: center
    :width: 600px
@@ -28,14 +28,14 @@ Steps to create an Amazon account
 5. Enter **Password**.
 6. Enter **Re-enter password**.
 7. Next, select **Verify**.
-.. image:: static/Signup Part 3.png
+.. image:: Signup Part 3.png
    :alt: Screenshot of Amazon Website
    :align: center
    :width: 600px
    :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
 8. New page appears, enter **six-digit OTP** in the space provided.
 9. Select **Create your Amazon account**.
-.. image:: static/Signup Part 4.png
+.. image:: Signup Part 4.png
    :alt: Screenshot of Amazon Website
    :align: center
    :width: 600px

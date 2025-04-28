@@ -2,7 +2,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Lumache' # Your project name
+project = 'AWS' # Your project name
 copyright = '2021, Graziella' # Your copyright
 author = 'Graziella' # Your name
 

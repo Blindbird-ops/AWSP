@@ -33,7 +33,7 @@ Perform
 
 #. Select the **!** icon to go to the next step
 
-   .. image:: static/next_step_icon_placeholder.png
+   .. image:: static/4A1P1.png
       :alt: Placeholder screenshot of the ! icon
       :align: center
       :width: 600px
@@ -41,7 +41,7 @@ Perform
 
 #. Select **NEXT**
 
-   .. image:: static/select_next_placeholder.png
+   .. image:: static/4A1P2.png
       :alt: Placeholder screenshot of the NEXT button
       :align: center
       :width: 600px
@@ -52,7 +52,7 @@ Perform
   - See **Solution Annotations**
   - Select **ACCEPT**
 
-   .. image:: static/go_to_solution_center_placeholder.png
+   .. image:: static/4A1P3.png
       :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
       :align: center
       :width: 600px
@@ -60,7 +60,7 @@ Perform
 
 #. Select **GO TO SOLUTION CENTER**
 
-   .. image:: static/go_to_solution_center_placeholder.png
+   .. image:: static/4A1P4.png
       :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
       :align: center
       :width: 600px
@@ -68,7 +68,7 @@ Perform
 
 #. Welcome to Solution Center
 
-   .. image:: static/welcome_solution_center_placeholder.png
+   .. image:: static/4A1P5.png
       :alt: Placeholder screenshot of the Welcome to Solution Center screen
       :align: center
       :width: 600px
@@ -76,7 +76,7 @@ Perform
 
 #. Steps of Solution Center Steps
 
-   .. image:: static/solution_center_steps_placeholder.png
+   .. image:: static/4A1P6.png
       :alt: Placeholder screenshot of Solution Center steps
       :align: center
       :width: 600px

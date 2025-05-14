@@ -17,12 +17,10 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
    :caption: Content:
+
     Introduction
     Preperation steps
-    Getting acquainted with AWS Cloud Quest
+    Getting acquainted with AWS Cloud Quest

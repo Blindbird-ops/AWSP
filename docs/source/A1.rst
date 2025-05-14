@@ -25,24 +25,24 @@ Perform
   - Select **ASSIGNMENT**
   - In Cloud Computing Essentials, select **ROUTE AND GO**
 
-   .. image:: static/route_and_go_placeholder.png
-      :alt: Placeholder screenshot showing where to select ROUTE AND GO
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/4-staticwebhosting/
-
-#. Select the **!** icon to go to the next step
-
    .. image:: static/4A1P1.png
       :alt: Placeholder screenshot of the ! icon
       :align: center
       :width: 600px
       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
 
-#. Select **NEXT**
+#. Select the **!** icon to go to the next step
 
    .. image:: static/4A1P2.png
       :alt: Placeholder screenshot of the NEXT button
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+
+#. Select **NEXT**
+
+   .. image:: static/4A1P3.png
+      :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
       :align: center
       :width: 600px
       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
@@ -52,7 +52,7 @@ Perform
   - See **Solution Annotations**
   - Select **ACCEPT**
 
-   .. image:: static/4A1P3.png
+   .. image:: static/4A1P4.png
       :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
       :align: center
       :width: 600px
@@ -60,23 +60,23 @@ Perform
 
 #. Select **GO TO SOLUTION CENTER**
 
-   .. image:: static/4A1P4.png
-      :alt: Placeholder screenshot of the GO TO SOLUTION CENTER button
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/4-staticwebhosting/
-
-#. Welcome to Solution Center
-
    .. image:: static/4A1P5.png
       :alt: Placeholder screenshot of the Welcome to Solution Center screen
       :align: center
       :width: 600px
       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
 
-#. Steps of Solution Center Steps
+#. Welcome to Solution Center
 
    .. image:: static/4A1P6.png
+      :alt: Placeholder screenshot of Solution Center steps
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+
+#. Steps of Solution Center Steps
+
+   .. image:: static/4A1P7.png
       :alt: Placeholder screenshot of Solution Center steps
       :align: center
       :width: 600px

@@ -14,6 +14,7 @@ Content
     :maxdepth: 2
 
     A2_learn
+    A2_plan
 
 Perform
 --------

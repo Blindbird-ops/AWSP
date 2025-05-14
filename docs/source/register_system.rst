@@ -46,9 +46,9 @@ After logging in, the AWS Training and Certification interface appears with the 
        :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 
-    .. note::
+.. note::
 
-       M1 series Mac computers may experience periodic rendering issues. Mobile browsers are not supported.
+   M1 series Mac computers may experience periodic rendering issues. Mobile browsers are not supported.
 
 #.  After checking the system, select **Play AWS Cloud Quest: Cloud Practitioner**.
 #.  The interface that appears includes 12 labs (Cloud Practitioner Assignments):

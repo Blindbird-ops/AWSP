@@ -15,7 +15,7 @@ Content
 
     A1_learn
     A1_plan
-    practice
+    A1_practice
     diy
 
 Perform

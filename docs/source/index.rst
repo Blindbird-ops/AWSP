@@ -15,16 +15,16 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development.
 
 Contents
 --------
-#. `:doc:`Introduction
+#. :doc:`Introduction`   <-- Corrected line!
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 2
+   :caption: Contents:
 
-   #. Introduction
-   #. Preperation steps
-   #. Getting acquainted with AWS Cloud Quest
+    Introduction
+    Preperation steps
+    Getting acquainted with AWS Cloud Quest

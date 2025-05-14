@@ -19,9 +19,10 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
 
 Contents
 --------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-    Introduction
-    Preperation steps
-    Getting acquainted with AWS Cloud Quest
+   :maxdepth: 2
+   :caption: Content:
+    Introduction
+    Preperation steps
+    Getting acquainted with AWS Cloud Quest

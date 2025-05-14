@@ -19,7 +19,7 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
 
 Contents
 --------
-#. :doc:`Introduction`
+#. `:doc:`Introduction
 
 .. toctree::
    :maxdepth: 2

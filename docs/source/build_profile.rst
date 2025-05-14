@@ -60,6 +60,7 @@ After the city interface appears, we build the player profile.
     * Select FACIAL HAIR
     * Select EYE COLOR
 
+
     .. image:: static/buildP5.png
        :alt: Screenshot of the Head Options customization section
        :align: center

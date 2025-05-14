@@ -14,7 +14,7 @@ Content
     :maxdepth: 2
 
     A1_learn
-    plan
+    A1_plan
     practice
     diy
 

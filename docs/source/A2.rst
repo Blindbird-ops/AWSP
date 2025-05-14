@@ -15,6 +15,7 @@ Content
 
     A2_learn
     A2_plan
+    A2_practice
 
 Perform
 --------

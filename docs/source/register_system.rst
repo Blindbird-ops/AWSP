@@ -13,7 +13,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot of the AWS Training and Certification interface showing available courses
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 #.  After selecting **ENROLL**, select **START LEARNING NOW**.
 
@@ -21,7 +21,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot showing the ENROLL and START LEARNING NOW buttons on the course page
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 #.  Select **Trailer Youtube video** for an overview of AWS Cloud Quest: Cloud Practitioner.
 
@@ -29,7 +29,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot of the AWS Training and Certification interface showing available courses
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 #.  After watching the video, select **System Requirements** to check system requirements.
 
@@ -43,7 +43,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot of the AWS Cloud Quest system requirements window or section
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 
     .. note::
@@ -72,7 +72,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot showing the list of 12 Cloud Practitioner lab assignments
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 #.  AWS Cloud Quest: Cloud Practitioner interface appears, select **START GAME** (takes time to load the game).
 
@@ -80,7 +80,7 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot of the PLAY NOW button within the Cloud Quest interface
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/
 
 #.  **Done**, the city interface has appeared.
 
@@ -88,4 +88,4 @@ After logging in, the AWS Training and Certification interface appears with the 
        :alt: Screenshot of the START GAME button
        :align: center
        :width: 600px
-       :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
+       :target: https://000300.awsstudygroup.com/3-awscloudquest/3.1-enroll/

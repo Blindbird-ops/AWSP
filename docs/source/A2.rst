@@ -24,7 +24,7 @@ Perform
        :alt: Placeholder screenshot for A2 Step 1 (Go to Assignments and Route)
        :align: center
        :width: 600px
-       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+       :target: https://000300.awsstudygroup.com/5-amazonec2/
 
 #.  Select the icon as shown.
 
@@ -32,7 +32,7 @@ Perform
        :alt: Placeholder screenshot for A2 Step 2 (Select specific icon)
        :align: center
        :width: 600px
-       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+       :target: https://000300.awsstudygroup.com/5-amazonec2/
 
 #.  After entering the **Cloud First Steps** interface, select **NEXT** to see more about **Amazon EC2**, **Availability Zone**, **AWS Region**.
 
@@ -40,7 +40,7 @@ Perform
        :alt: Placeholder screenshot for A2 Step 3 (Navigate Cloud First Steps interface)
        :align: center
        :width: 600px
-       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+       :target: https://000300.awsstudygroup.com/5-amazonec2/
 
 #.  Select **ACCEPT**.
 
@@ -48,7 +48,7 @@ Perform
        :alt: Placeholder screenshot for A2 Step 4 (Accept the challenge)
        :align: center
        :width: 600px
-       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+       :target: https://000300.awsstudygroup.com/5-amazonec2/
 
 #.  Select **GO TO SOLUTION CENTER** to move to the next steps of Assignment.
 
@@ -56,4 +56,4 @@ Perform
        :alt: Placeholder screenshot for A2 Step 5 (Go to Solution Center)
        :align: center
        :width: 600px
-       :target: https://000300.awsstudygroup.com/4-staticwebhosting/
+       :target: https://000300.awsstudygroup.com/5-amazonec2/

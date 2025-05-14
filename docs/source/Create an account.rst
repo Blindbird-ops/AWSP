@@ -19,6 +19,7 @@ Steps to create an Amazon account
     :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
 
 2. Select **Create a new Amazon account**.
+
 .. image:: static/Signup Part2.png  <-- Added 'static/' prefix
     :alt: Screenshot of Amazon Website
     :align: center
@@ -29,6 +30,7 @@ Steps to create an Amazon account
 5. Enter **Password**.
 6. Enter **Re-enter password**.
 7. Next, select **Verify**.
+
 .. image:: static/Signup Part3.png  <-- Added 'static/' prefix
     :alt: Screenshot of Amazon Website
     :align: center
@@ -36,6 +38,7 @@ Steps to create an Amazon account
     :target: https://aws.amazon.com/training/digital/aws-cloud-quest/
 8. New page appears, enter **six-digit OTP** in the space provided.
 9. Select **Create your Amazon account**.
+
 .. image:: static/Signup Part4.png  <-- Added 'static/' prefix
     :alt: Screenshot of Amazon Website
     :align: center

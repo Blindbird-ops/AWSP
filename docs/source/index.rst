@@ -25,4 +25,5 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
    Introduction
    Preparation steps
    Getting acquainted with AWS Cloud Quest
+   A1
 

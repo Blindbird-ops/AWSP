@@ -24,6 +24,7 @@ System equipment meets the following requirements:
    :caption: Amazon Account:
 
    Create an account
+   Login to Amazon account
 
 Content
 -------

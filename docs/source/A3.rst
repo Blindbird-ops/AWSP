@@ -1,0 +1,63 @@
+.. _a3_connect_ec2: # Replace 'connect_ec2' if a different label is preferred
+
+==================================
+A3 - Connect to an EC2 Instance
+==================================
+
+Overview
+--------
+Lab #3 of AWS Cloud Quest: Cloud Practitioner is Connect to an EC2 Instance. After receiving the Assignment 2 award, continue to perform the following steps to begin Assignment 3.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A3_learn
+    A3_plan
+    A3_practice
+    A3_diy
+
+Perform
+--------
+Follow these initial steps to access the A3 challenge:
+
+#.  In **ASSIGNMENT**, select **ROUTE AND GO**.
+
+    .. image:: static/a3_P1.png
+       :alt: Placeholder screenshot for A3 Step 1 (Route and Go)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual target URL for A3 if applicable #}
+
+#.  Select **NEXT**.
+
+    .. image:: static/6A3P1.png
+       :alt: Placeholder screenshot for A3 Step 2 (Select NEXT)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual target URL for A3 if applicable #}
+
+#.  Read **Computing Solutions** and select **ACCEPT**.
+
+    .. image:: static/6A3P1.png
+       :alt: Placeholder screenshot for A3 Step 3 (Read Solutions and Accept)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual target URL for A3 if applicable #}
+
+#.  Select **GO TO SOLUTION CENTER**.
+
+    .. image:: static/6A3P1.png
+       :alt: Placeholder screenshot for A3 Step 4 (Go to Solution Center)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual target URL for A3 if applicable #}
+
+#.  Getting Started Learn
+
+    .. image:: static/6A3P1.png
+       :alt: Placeholder screenshot for A3 Step 4 (Go to Solution Center)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual target URL for A3 if applicable #}

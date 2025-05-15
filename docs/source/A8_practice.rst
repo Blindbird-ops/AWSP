@@ -13,7 +13,7 @@ After watching Plan, the player prepares for Practice.
    * Select **START LAB**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR01.png
+   .. image:: static/A8PR0.png
       :alt: Practice interface showing step 1, concept, start lab, and next arrow.
       :align: center
       :width: 600px
@@ -26,7 +26,7 @@ After watching Plan, the player prepares for Practice.
    * Select **Open AWS Console**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR02.png
+   .. image:: static/A8PR2.png
       :alt: Practice interface showing step 2, concept, open console, and next arrow.
       :align: center
       :width: 600px
@@ -37,7 +37,7 @@ After watching Plan, the player prepares for Practice.
    * Find **IAM**.
    * Select **IAM**.
 
-   .. image:: static/A8PR03.png
+   .. image:: static/A8PR3.png
       :alt: AWS console showing IAM service.
       :align: center
       :width: 600px
@@ -49,7 +49,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR04.png
+   .. image:: static/A8PR4.png
       :alt: Practice interface showing step 3, concept, and next arrow.
       :align: center
       :width: 600px
@@ -60,7 +60,7 @@ After watching Plan, the player prepares for Practice.
    * Select **User groups**.
    * Select **Create group**.
 
-   .. image:: static/A8PR05.png
+   .. image:: static/A8PR5.png
       :alt: IAM interface showing User groups and Create group options.
       :align: center
       :width: 600px
@@ -72,7 +72,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR06.png
+   .. image:: static/A8PR6.png
       :alt: Practice interface showing step 4, concept, and next arrow.
       :align: center
       :width: 600px
@@ -82,7 +82,7 @@ After watching Plan, the player prepares for Practice.
 
    * In **User group name**, enter ``SupportEngineers``.
 
-   .. image:: static/A8PR07.png
+   .. image:: static/A8PR7.png
       :alt: Create user group interface showing name field.
       :align: center
       :width: 600px
@@ -94,7 +94,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR08.png
+   .. image:: static/A8PR8.png
       :alt: Practice interface showing step 5, concept, and next arrow.
       :align: center
       :width: 600px
@@ -104,7 +104,7 @@ After watching Plan, the player prepares for Practice.
 
    * Find **AmazonEC2ReadOnlyAccess**.
 
-   .. image:: static/A8PR09.png
+   .. image:: static/A8PR9.png
       :alt: IAM interface showing policy search field.
       :align: center
       :width: 600px

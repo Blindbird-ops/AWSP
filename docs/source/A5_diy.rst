@@ -7,6 +7,7 @@ DIY
 After completing the lab, the player does DIY.
 
 #.  In the **DIY** interface: {# Omitted descriptive line #}
+
     * Read **DIY ACTIVITIES**.
     * Read **SOLUTION VALIDATION METHOD**.
 
@@ -33,6 +34,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **My Estimate**:
+
     * Select **Add group**.
 
     .. image:: static/A5D4.png
@@ -42,6 +44,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Add group**:
+
     * Group name, enter **Web Servers**.
     * Select **Add group**.
 
@@ -52,6 +55,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In the **Web Servers** interface:
+
     * Select **Add service**.
 
     .. image:: static/A5D6.png
@@ -61,6 +65,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Add service**:
+
     * Search **EC2**.
     * Select **Configure**.
 
@@ -71,6 +76,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Configure Amazon EC2**:
+
     * Description, enter **Web Server Estimate**.
     * Region, select **US East (N. Virginia)**.
     * In **EC2 instance specifications**, select **Linux**.
@@ -82,6 +88,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In the **Workload** interface:
+
     * Select **Daily spike traffic**.
 
     .. image:: static/A5D9.png
@@ -91,6 +98,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  Daily spike pattern, **Workload days** section:
+
     * Choose the days of the week.
 
     .. image:: static/A5D10.png
@@ -100,6 +108,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  Daily spike pattern:
+
     * Baseline, enter ``2``.
     * Peak, enter ``4``.
     * Duration of peak, enter ``8`` and ``0``.
@@ -111,6 +120,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **EC2 Instances**:
+
     * Select **t2.micro**.
 
     .. image:: static/A5D12.png
@@ -120,6 +130,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Pricing strategy**:
+
     * Pricing model, select **On-demand**.
     * Select **Show calculations**.
     * Select **estimate workload hours**.
@@ -131,6 +142,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Amazon Elastic Block Storage (EBS)**:
+
     * Storage for each EC2 instance, select **General Purpose SSD (gp2)**.
     * Storage amount, enter ``30``.
     * Snapshot Frequency, enter **Weekly**.
@@ -162,6 +174,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Data Transfer**:
+
     * Outbound Data Transfer, select **Internet ($0.05 - $0.09 per GB)**.
     * Select ``100``.
     * Select **TB per month**.
@@ -189,6 +202,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In the **Web Servers** interface: {# Note: User had "16 In the Save estimate" here, renumbering #}
+
     * Select **Share**.
 
     .. image:: static/A5D20.png

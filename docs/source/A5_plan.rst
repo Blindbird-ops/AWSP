@@ -11,7 +11,7 @@ To switch to Plan, players take the following steps after Learn.
     * Read **DIY Goals**.
     * Select **Practice** to conduct the lab.
 
-    .. image:: static/A5P1.png {# Changed from 8.2planP1.png to A5P1.png #}
+    .. image:: static/A5P1.png
        :alt: Placeholder screenshot for A5 Plan Step 1 (Plan Interface and Select Practice)
        :align: center
        :width: 600px

@@ -13,7 +13,7 @@ After watching Plan, the player prepares for Practice.
    * Select **START LAB**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A8PR0.png
+   .. image:: static/A8PR1.png
       :alt: Practice interface showing step 1, concept, start lab, and next arrow.
       :align: center
       :width: 600px

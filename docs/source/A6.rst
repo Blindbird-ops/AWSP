@@ -8,62 +8,53 @@ Overview
 --------
 Lab #6 of AWS Cloud Quest: Cloud Practitioner is Connecting Amazon VPCs.
 
-Content
---------
-.. toctree::
-    :maxdepth: 2
-    :caption: Content
-
-    A6_learn # Placeholder for A6 Learn section file (e.g., A6_learn.rst)
-    A6_plan # Placeholder for A6 Plan section file (e.g., A6_plan.rst)
-    A6_practice # Placeholder for A6 Practice section file (e.g., A6_practice.rst)
-    A6_diy # Placeholder for A6 DIY section file (e.g., A6_diy.rst)
-
-
 Perform
 --------
 Follow these initial steps to access the A6 challenge:
 
-#.  In **ASSIGNMENTS**:
-    * Select **ROUTE AND GO**.
+#.  In **ASSIGNMENTS**:
 
-    .. image:: static/A61.png
-       :alt: Placeholder screenshot for A6 Step 1 (Route and Go)
-       :align: center
-       :width: 600px
-       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
+    * Select **ROUTE AND GO**.
 
-#.  Select the **!** icon.
+    .. image:: static/A61.png
+       :alt: Placeholder screenshot for A6 Step 1 (Route and Go)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
 
-    .. image:: static/A62.png
-       :alt: Placeholder screenshot for A6 Step 2 (Select the ! icon)
-       :align: center
-       :width: 600px
-       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
+#.  Select the **!** icon.
 
-#.  Select **NEXT**.
+    .. image:: static/A62.png
+       :alt: Placeholder screenshot for A6 Step 2 (Select the ! icon)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
 
-    .. image:: static/A63.png
-       :alt: Placeholder screenshot for A6 Step 3 (Select NEXT)
-       :align: center
-       :width: 600px
-       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
+#.  Select **NEXT**.
+#.  View **Rewards**.
+                                                   
+    .. image:: static/A63.png
+       :alt: Placeholder screenshot for A6 Step 3 (Select NEXT)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
 
-#.  View **Rewards**.
+#.  Select **ACCEPT**.
+                                                   
+    .. image:: static/A64.png
+       :alt: Placeholder screenshot for A6 Step 4 (View Rewards)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
 
-    .. image:: static/A64.png
-       :alt: Placeholder screenshot for A6 Step 4 (View Rewards)
-       :align: center
-       :width: 600px
-       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
 
-#.  Select **ACCEPT**.
+#.  See **Solution Annotations**.
+                                                   
+    * Select **GO TO SOLUTION CENTER**.
 
-    .. image:: static/A65.png
-       :alt: Placeholder screenshot for A6 Step 5 (Select ACCEPT)
-       :align: center
-       :width: 600px
-       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}
-
-#.  See **Solution Annotations**.
-    * Select **GO TO SOLUTION CENTER**.
+                                                   
+    .. image:: static/A65.png
+       :alt: Placeholder screenshot for A6 Step 5 (Select ACCEPT)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A6 if applicable #}

@@ -13,7 +13,7 @@ To switch to Plan, players take the following steps after Learn.
     * Read **DIY Goals**.
     * Select **Practice** to go to **Practice** interface.
 
-    .. image:: static/A6P1.png {# Image P1 for A6 Plan #}
+    .. image:: static/A6P1.png
        :alt: Placeholder screenshot for A6 Plan Step 2 (Plan Interface and Goals)
        :align: center
        :width: 600px

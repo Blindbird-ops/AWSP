@@ -4,22 +4,16 @@
 A7 - Database
 ==============
 
-.. container:: overview
+Overview
+--------
+Lab #7 of AWS Cloud Quest: Cloud Practitioner is Lauching an Amazon RDS Database Instance.
 
-   Overview
-   --------
-   Lab #7 of AWS Cloud Quest: Cloud Practitioner is Lauching an Amazon RDS Database Instance.
+Content
+--------
+.. toctree::
+    :maxdepth: 2
 
-.. container:: content
-
-   Content
-   -------
-
-   .. toctree::
-      :maxdepth: 2
-      :caption: Content
-
-      A7_learn
-      A7_plan
-      A7_practice
-      A7_diy
+    A7_learn
+    A7_plan
+    A7_practice
+    A7_diy

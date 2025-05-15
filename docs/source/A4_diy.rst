@@ -55,6 +55,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.4-diy/ {# Replace with actual URL for A4 DIY #}
 
 #.  In the **Security Groups** interface:
+
     * Select **Edit inbound rules**.
 
     .. image:: static/7.4diyP7.png
@@ -64,6 +65,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.4-diy/ {# Replace with actual URL for A4 DIY #}
 
 #.  In the **Edit inbound rules** interface:
+
     * Type: select **MYSQL/Aurora**.
     * Protocol: select **TCP**.
     * Prot range: enter ``3306``.
@@ -85,6 +87,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.4-diy/ {# Replace with actual URL for A4 DIY #}
 
 #.  In the **DIY** interface: {# Omitted descriptive lines #}
+
     * Paste **Security group name** into **VALIDATION FORM** in **Database Security Group name** field.
 
     .. image:: static/7.4diyP10.png

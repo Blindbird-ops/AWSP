@@ -11,7 +11,7 @@ Here’s the full set of steps:
    * Read **DIY ACTIVITIES**.
    * Read **SOLUTION VALIDATION METHOD**.
 
-   .. image:: static/A6D01.png
+   .. image:: static/A6D1.png
       :alt: DIY interface with activities and validation method instructions.
       :align: center
       :width: 600px
@@ -19,7 +19,7 @@ Here’s the full set of steps:
 
 #. Select “**Open AWS Console**”.
 
-   .. image:: static/A6D02.png
+   .. image:: static/A6D2.png
       :alt: AWS console button highlighted.
       :align: center
       :width: 600px
@@ -32,7 +32,7 @@ Here’s the full set of steps:
    * Select **Your VPCs**.
    * View the VPC.
 
-   .. image:: static/A6D03.png
+   .. image:: static/A6D3.png
       :alt: AWS console showing VPC service and Your VPCs list.
       :align: center
       :width: 600px
@@ -43,7 +43,7 @@ Here’s the full set of steps:
    * Find **EC2**.
    * Select **EC2**.
 
-   .. image:: static/A6D04.png
+   .. image:: static/A6D4.png
       :alt: AWS console showing EC2 service.
       :align: center
       :width: 600px
@@ -57,7 +57,7 @@ Here’s the full set of steps:
    * View **VPC ID**.
    * Select **Connect**.
 
-   .. image:: static/A6D05.png
+   .. image:: static/A6D5.png
       :alt: EC2 interface showing instances, Developer Server selected, details viewed, and Connect button.
       :align: center
       :width: 600px
@@ -68,7 +68,7 @@ Here’s the full set of steps:
    * Select “**EC2 Instance Connect**”.
    * Select **Connect**.
 
-   .. image:: static/A6D06.png
+   .. image:: static/A6D6.png
       :alt: Connect to instance options, EC2 Instance Connect selected and Connect button.
       :align: center
       :width: 600px
@@ -79,7 +79,7 @@ Here’s the full set of steps:
     * Enter ``ping 172.31.0.10``.
     * View results.
 
-   .. image:: static/A6D07.png
+   .. image:: static/A6D7.png
       :alt: CLI with ping command and results.
       :align: center
       :width: 600px
@@ -90,7 +90,7 @@ Here’s the full set of steps:
     * Select **Developer Server**.
     * Select **Subnet ID**.
 
-   .. image:: static/A6D08.png
+   .. image:: static/A6D8.png
       :alt: Developer server details showing Subnet ID link.
       :align: center
       :width: 600px
@@ -101,7 +101,7 @@ Here’s the full set of steps:
     * Select **DeveloperPublicSubnet1**.
     * Select **Route table**.
 
-   .. image:: static/A6D09.png
+   .. image:: static/A6D9.png
       :alt: Subnet details page showing route table link.
       :align: center
       :width: 600px

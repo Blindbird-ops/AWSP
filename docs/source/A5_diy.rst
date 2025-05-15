@@ -163,6 +163,7 @@ After completing the lab, the player does DIY.
        :target: https://000300.awsstudygroup.com/8-pricingcalculator/8.4-diy/ {# Replace with actual URL for A5 DIY #}
 
 #.  In **Data Transfer**:
+
     * Inbound Data Transfer, select **Internet (free)**.
     * Select ``1``.
     * Select **TB per month**.

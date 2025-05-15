@@ -1,0 +1,25 @@
+.. _a5_pricing_calculator: # Replace 'pricing_calculator' if a different label is preferred
+
+=================================
+A5 - AWS Pricing Calculator
+=================================
+
+Overview
+--------
+Lab #5 of AWS Cloud Quest: Cloud Practitioner is AWS Pricing Calculator.
+
+**AWS Pricing Calculator**
+Estimate the cost of your architectural solution.
+Configure cost estimates to suit your individual business or personal needs with AWS products and services.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A5_learn # Placeholder for A5 Learn section file (e.g., A5_learn.rst)
+    A5_plan # Placeholder for A5 Plan section file (e.g., A5_plan.rst)
+    A5_practice # Placeholder for A5 Practice section file (e.g., A5_practice.rst)
+    A5_diy # Placeholder for A5 DIY section file (e.g., A5_diy.rst)
+
+

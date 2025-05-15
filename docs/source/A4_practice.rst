@@ -15,6 +15,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 1 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select **START LAB**.
@@ -27,6 +28,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 3 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select **Open AWS Console**.
@@ -39,6 +41,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **AWS Console** interface:
+
     * Find and select **EC2**.
 
     .. image:: static/7.3practiceP4.png
@@ -48,6 +51,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface: {# Note: User's source text has a "In the Learn interface" here, but placing within Practice context #}
+
     * Read step 3 of **Networking Concepts**. {# Note: Reads step 3 again per user source #}
     * Select the arrow to the right to see the next steps.
 
@@ -58,6 +62,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Instances**.
 
     .. image:: static/7.3practiceP6.png
@@ -67,6 +72,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface: {# Note: User's source text has a "In the Learn interface" here, but placing within Practice context #}
+
     * Read step 4 **Networking Concepts**.
     * Select the arrow to the right to see the next steps.
 
@@ -77,6 +83,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Web Server** instance.
     * Copy **Public IPv4 address**.
 
@@ -87,6 +94,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface: {# Note: User's source text has a "In the Learn interface" here, but placing within Practice context #}
+
     * Read step 5 **Networking Concepts**.
     * Select the right arrow to see the next steps.
 
@@ -97,6 +105,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  Open the browser:
+
     * Paste **Public IPv4 address**. {# Corrected typo: Ipv4 -> IPv4 #}
     * View returned results. {# Removed extra text "and browser" #}
 
@@ -107,6 +116,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface: {# Note: User's source text has a "In the Learn interface" here, but placing within Practice context #}
+
     * Read step 6 **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the arrow to the right to see the next step.
@@ -118,6 +128,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Web Server** instance.
     * Select **Networking**.
     * In **Networking** details, see details **Public IPv4 address** and **Private IPv4 addresses**. {# Corrected typo: addressses -> addresses #}
@@ -129,6 +140,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 7 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -140,6 +152,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Web Server** instance.
     * Select **Networking**.
     * Select **Subnet ID**.
@@ -151,6 +164,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 8 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -162,6 +176,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Subnet** interface:
+
     * Select **network-concepts**.
     * Select **Route table**.
     * Choose the name **Route table**.
@@ -173,6 +188,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 9 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -184,6 +200,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Route tables** interface:
+
     * Choose the name **Route table**.
     * Select **Routes**.
     * View details about **Routes**.
@@ -196,6 +213,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 10 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the arrow to the right to see the next steps.
@@ -207,6 +225,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Edit routes** interface:
+
     * View **NAT gateway**.
     * Select **Remove**.
 
@@ -217,6 +236,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 11 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the arrow to the right to see the next steps.
@@ -228,6 +248,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Edit routes** interface:
+
     * Select **Add route**.
     * In **Destination**, enter ``0.0.0.0/0``.
     * In **Target**, select **Internet Gateway**.
@@ -241,6 +262,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 12 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the arrow to the right to see the next steps.
@@ -252,6 +274,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Route Tables** interface:
+
     * View details **Route table**.
     * Select **Services**.
 
@@ -262,6 +285,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 13 of **Networking Concepts**.
     * Select the right arrow to see the next steps.
 
@@ -272,6 +296,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Web Server** instance.
     * Select **Security**.
     * Select **Security group**.
@@ -283,6 +308,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 14 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -294,6 +320,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Security Groups** interface:
+
     * Select **Edit inbound rules**.
 
     .. image:: static/7.3practiceP28.png
@@ -303,6 +330,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 15 of **Networking Concepts**. {# First instance of reading step 15 #}
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -314,6 +342,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Edit inbound rules** interface:
+
     * Select **Add rule**.
 
     .. image:: static/7.3practiceP30.png {# Note: Skipping the second "Read step 15" block per count #}
@@ -323,6 +352,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 15 of **Networking Concepts**. {# Third instance of reading step 15 #}
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -334,6 +364,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Edit inbound rules** interface:
+
     * Type, select **HTTP**.
     * Source, select **Anywhere-IPv4**.
     * Select **Save rules**.
@@ -345,6 +376,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 16 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the arrow to the right to see the next steps.
@@ -356,6 +388,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Instances**.
 
     .. image:: static/7.3practiceP34.png
@@ -365,6 +398,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface: {# Note: Jumps from reading step 16 to step 18 per user source #}
+
     * Read step 18 of **Networking Concepts**.
     * Select the right arrow to see the next steps.
 
@@ -375,6 +409,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **EC2** interface:
+
     * Select **Web Server** instance.
     * Select **Networking**.
     * Select and copy **Public IPv4 address**. {# Corrected typo: Ipv4 -> IPv4 #}
@@ -386,6 +421,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  In the **Practice** interface:
+
     * Read step 19 of **Networking Concepts**.
     * Read **CONCEPT**.
     * Select the right arrow to see the next steps.
@@ -397,6 +433,7 @@ After watching Plan, the player prepares for Practice.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.3-practice/ {# Replace with actual URL for A4 Practice #}
 
 #.  Open a browser:
+
     * Paste **Public IPv4 address**. {# Corrected typo: Ipv4 -> IPv4 #}
     * Results returned.
 

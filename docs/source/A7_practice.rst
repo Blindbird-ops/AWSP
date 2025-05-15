@@ -13,7 +13,7 @@ After watching Plan, the player prepares for Practice.
    * Select **START LAB**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR01.png
+   .. image:: static/A7PR1.png
       :alt: Practice interface showing step 1, concept, start lab, and next arrow.
       :align: center
       :width: 600px
@@ -25,7 +25,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select **Open AWS Console**.
 
-   .. image:: static/A7PR02.png
+   .. image:: static/A7PR2.png
       :alt: Practice interface showing step 2, concept, and Open AWS Console button.
       :align: center
       :width: 600px
@@ -36,7 +36,7 @@ After watching Plan, the player prepares for Practice.
    * Find **RDS**.
    * Select **RDS**.
 
-   .. image:: static/A7PR03.png
+   .. image:: static/A7PR3.png
       :alt: AWS console showing RDS service.
       :align: center
       :width: 600px
@@ -48,7 +48,7 @@ After watching Plan, the player prepares for Practice.
    * Select **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR04.png
+   .. image:: static/A7PR4.png
       :alt: Practice interface showing step 3, concept, and next arrow.
       :align: center
       :width: 600px
@@ -60,7 +60,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR05.png
+   .. image:: static/A7PR5.png
       :alt: Practice interface showing step 4, concept, and next arrow.
       :align: center
       :width: 600px
@@ -73,7 +73,7 @@ After watching Plan, the player prepares for Practice.
    * In **Choose a database creation method**, select **Standard create**.
    * In **Engine options**, select **MariaDB**.
 
-   .. image:: static/A7PR06.png
+   .. image:: static/A7PR6.png
       :alt: RDS dashboard showing create database options.
       :align: center
       :width: 600px
@@ -85,7 +85,7 @@ After watching Plan, the player prepares for Practice.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR07.png
+   .. image:: static/A7PR7.png
       :alt: Practice interface showing step 5, concept, and next arrow.
       :align: center
       :width: 600px
@@ -96,7 +96,7 @@ After watching Plan, the player prepares for Practice.
    * For **Version**, select **MariaDB 10.4.13**.
    * For **Templates**, select **Dev/Test**.
 
-   .. image:: static/A7PR08.png
+   .. image:: static/A7PR8.png
       :alt: RDS configuration showing version and template selection (first instance).
       :align: center
       :width: 600px
@@ -107,7 +107,7 @@ After watching Plan, the player prepares for Practice.
    * For **Version**, select **MariaDB 10.4.13**.
    * For **Templates**, select **Dev/Test**. {# This is the duplicate section from your original text #}
 
-   .. image:: static/A7PR09.png
+   .. image:: static/A7PR9.png
       :alt: RDS configuration showing version and template selection (second instance).
       :align: center
       :width: 600px

@@ -14,12 +14,12 @@ A7 - Database
 
    Content
    --------
-.. toctree::
-    :maxdepth: 2
-    :caption: Content
+   .. toctree::
+       :maxdepth: 2
+       :caption: Content
 
-    A7_learn # Placeholder for A6 Learn section file (e.g., A6_learn.rst)
-    A7_plan # Placeholder for A6 Plan section file (e.g., A6_plan.rst)
-    A7_practice # Placeholder for A6 Practice section file (e.g., A6_practice.rst)
-    A7_diy # Placeholder for A6 DIY section file (e.g., A6_diy.rst)
+       A7_learn # Placeholder for A6 Learn section file (e.g., A6_learn.rst)
+       A7_plan # Placeholder for A6 Plan section file (e.g., A6_plan.rst)
+       A7_practice # Placeholder for A6 Practice section file (e.g., A6_practice.rst)
+       A7_diy # Placeholder for A6 DIY section file (e.g., A6_diy.rst)
 

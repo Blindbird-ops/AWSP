@@ -604,3 +604,9 @@ After watching Plan, the player prepares for Practice.
        :align: center
        :width: 600px
        :target: https://000300.awsstudygroup.com/9-connectingvpcs/9.3-practice/ {# Replace with actual URL for A6 Practice #}
+
+    .. image:: static/A6PR58.png
+       :alt: Placeholder screenshot for A6 Practice Step 58 (Congratulations)
+       :align: center
+       :width: 600px
+       :target: https://000300.awsstudygroup.com/9-connectingvpcs/9.3-practice/ {# Replace with actual URL for A6 Practice #}

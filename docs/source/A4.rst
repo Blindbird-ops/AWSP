@@ -1,0 +1,60 @@
+.. _a4_internet_vpc: # Replace 'internet_vpc' if a different label is preferred
+
+=============================================
+A4 - Internet Access for VPC Resources
+=============================================
+
+Overview
+--------
+Lab #4 of AWS Cloud Quest: Cloud Practitioner is Internet Access for VPC Resources.
+After receiving the Assignment 3 award, continue to perform the following steps to begin Assignment 4.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A4_learn # Placeholder for A4 Learn section file (e.g., A4_learn.rst)
+    A4_plan # Placeholder for A4 Plan section file (e.g., A4_plan.rst)
+    A4_practice # Placeholder for A4 Practice section file (e.g., A4_practice.rst)
+    A4_diy # Placeholder for A4 DIY section file (e.g., A4_diy.rst)
+
+
+Perform
+--------
+Follow these initial steps to access the A4 challenge:
+
+#.  In **ASSIGNMENT**:
+
+    * In **Networing Concepts**, select **ROUTE AND GO**.
+    * Select the icon as shown.
+
+    .. image:: static/7A4P1.png
+       :alt: Placeholder screenshot for A4 Step 2 (Select the icon)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A4 if applicable #}
+
+#.  View **Rewards** and select **NEXT**.
+
+    .. image:: static/7A4P2.png
+       :alt: Placeholder screenshot for A4 Step 3 (View Rewards and Select NEXT)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A4 if applicable #}
+
+#.  View **Solution Annotations** and select **ACCEPT**.
+
+    .. image:: static/7A4P3.png
+       :alt: Placeholder screenshot for A4 Step 4 (View Annotations and Accept)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A4 if applicable #}
+
+#.  Select **GO TO SOLUTION CENTER**, to proceed to the next steps.
+
+    .. image:: static/7A4P4.png
+       :alt: Placeholder screenshot for A4 Step 5 (Go to Solution Center)
+       :align: center
+       :width: 600px
+       :target: # {# Replace '#' with the actual base URL for A4 if applicable #}

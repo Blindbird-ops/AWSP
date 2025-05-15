@@ -1,0 +1,62 @@
+.. _a8_security:
+
+==============
+A8 - Security
+==============
+
+Overview
+--------
+AWS Cloud Quest: Cloud Practitioner’s 8th lab is Defining Usr and Group Permissions using IAM Policies.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A8_learn
+    A8_plan
+    A8_practice
+    A8_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+   * Choose the icon ``!``.
+
+   .. image:: static/A81.png
+      :alt: City interface showing assignments and route options.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/8-security/8.x-y/ {# Replace with actual URL #}
+
+#. In the **city interface**:
+
+   * View **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: static/A82.png
+      :alt: City interface showing rewards and next button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/8-security/8.x-y/ {# Replace with actual URL #}
+
+#. In the **city interface**:
+
+   * See **Solution Annotations**.
+   * Select **ACCEPT**.
+
+   .. image:: static/A83.png
+      :alt: City interface showing solution annotations and accept button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/8-security/8.x-y/ {# Replace with actual URL #}
+
+#. Select **GO TO SOLUTION CENTER**.
+
+   .. image:: static/A84.png
+      :alt: Button to go to Solution Center.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/8-security/8.x-y/ {# Replace with actual URL #}
+

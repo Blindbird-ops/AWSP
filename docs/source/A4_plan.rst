@@ -7,6 +7,7 @@ Plan
 To switch to Plan, players take the following steps after Learn.
 
 #.  In the **Practice** interface:
+
     * Select **Plan** to start.
 
     .. image:: static/7.2planP1.png
@@ -16,6 +17,7 @@ To switch to Plan, players take the following steps after Learn.
        :target: https://000300.awsstudygroup.com/7-internetvpc/7.2-plan/ {# Replace with actual URL for A4 Plan #}
 
 #.  In the **Plan** interface:
+
     * Read **Practice Lab Goals**. {# Corrected typo: Practie -> Practice #}
     * Read **DIY Goals**.
 

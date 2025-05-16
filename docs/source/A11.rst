@@ -1,0 +1,57 @@
+.. _a11_scaling:
+
+============
+A11 - Scaling
+============
+
+Overview
+--------
+The 11th lab of AWS Cloud Quest: Cloud Practitioner is Configuring EC2 Auto Scaling.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A11_learn
+    A11_plan
+    A11_practice
+    A11_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+
+   .. image:: static/14A11P1.png
+      :alt: City interface showing Assignments and Route and Go options.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/11-scaling/11.x-y/ {# Replace with actual URL based on path #}
+
+#. In the **Auto-healing and Scaling Applications** interface:
+
+   * View **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: static/14A11P2.png
+      :alt: Lab interface showing rewards and next button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/11-scaling/11.x-y/ {# Replace with actual URL based on path #}
+
+#. Select **ACCEPT**. {# Interface not specified, assuming it follows step 2 #}
+
+   .. image:: static/14A11P3.png
+      :alt: Interface showing an Accept button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/11-scaling/11.x-y/ {# Replace with actual URL based on path #}
+
+#. Select **GO TO SOLUTION CENTER**.
+
+   .. image:: static/14A11P4.png
+      :alt: Button to go to Solution Center.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/11-scaling/11.x-y/ {# Replace with actual URL based on path #}

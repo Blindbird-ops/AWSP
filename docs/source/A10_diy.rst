@@ -11,7 +11,7 @@ After completing the lab, the player does DIY.
    * Find **Amazon DynamoDB**.
    * Select **Amazon DynamoDB**.
 
-   .. image:: static/13.4diyP01.png
+   .. image:: static/13.4diyP1.png
       :alt: AWS Console showing Amazon DynamoDB service.
       :align: center
       :width: 600px
@@ -24,7 +24,7 @@ After completing the lab, the player does DIY.
    * Select **Actions**.
    * Select **Create item**.
 
-   .. image:: static/13.4diyP02.png
+   .. image:: static/13.4diyP2.png
       :alt: DynamoDB interface navigating to create an item for UserVideoHistory.
       :align: center
       :width: 600px
@@ -34,7 +34,7 @@ After completing the lab, the player does DIY.
 
    * In **userId**, enter ``12345-abcd-6785``.
 
-   .. image:: static/13.4diyP03.png
+   .. image:: static/13.4diyP3.png
       :alt: Create item interface showing userId entry.
       :align: center
       :width: 600px
@@ -44,7 +44,7 @@ After completing the lab, the player does DIY.
 
    * In **lastDateWatched**, enter ``1619156407``.
 
-   .. image:: static/13.4diyP04.png
+   .. image:: static/13.4diyP4.png
       :alt: Create item interface showing lastDateWatched entry.
       :align: center
       :width: 600px
@@ -54,7 +54,7 @@ After completing the lab, the player does DIY.
 
    * Select **Add new attribute**.
 
-   .. image:: static/13.4diyP05.png
+   .. image:: static/13.4diyP5.png
       :alt: Create item interface showing Add new attribute button.
       :align: center
       :width: 600px
@@ -64,7 +64,7 @@ After completing the lab, the player does DIY.
 
    * Select **Number** (for the new attribute type).
 
-   .. image:: static/13.4diyP06.png
+   .. image:: static/13.4diyP6.png
       :alt: Create item interface showing Number attribute type selected.
       :align: center
       :width: 600px
@@ -75,7 +75,7 @@ After completing the lab, the player does DIY.
    * For **Attribute name**, enter ``Rating``.
    * (Note: This should be lowercase ``rating`` for validation).
 
-   .. image:: static/13.4diyP07.png
+   .. image:: static/13.4diyP7.png
       :alt: Create item interface showing Rating attribute name entry.
       :align: center
       :width: 600px
@@ -85,7 +85,7 @@ After completing the lab, the player does DIY.
 
    * For **Value**, enter ``5``.
 
-   .. image:: static/13.4diyP08.png
+   .. image:: static/13.4diyP8.png
       :alt: Create item interface showing Rating attribute value entry.
       :align: center
       :width: 600px
@@ -95,7 +95,7 @@ After completing the lab, the player does DIY.
 
    * Select **Create item**.
 
-   .. image:: static/13.4diyP09.png
+   .. image:: static/13.4diyP9.png
       :alt: Create item interface showing Create item button.
       :align: center
       :width: 600px

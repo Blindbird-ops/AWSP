@@ -11,7 +11,7 @@ After completing the lab, the player does DIY.
    * Read **DIY ACTIVITIES**. {# Correcting typo "ACCTIVITIES" #}
    * Read **SOLUTION VALIDATION METHOD**.
 
-   .. image:: static/15.4diyP01.png
+   .. image:: static/15.4diyP1.png
       :alt: DIY interface showing instructions.
       :align: center
       :width: 600px
@@ -21,7 +21,7 @@ After completing the lab, the player does DIY.
 
    * Select **START LAB**.
 
-   .. image:: static/15.4diyP02.png
+   .. image:: static/15.4diyP2.png
       :alt: DIY interface showing Start Lab button.
       :align: center
       :width: 600px
@@ -32,7 +32,7 @@ After completing the lab, the player does DIY.
    * Find **EC2**.
    * Select **EC2**.
 
-   .. image:: static/15.4diyP03.png
+   .. image:: static/15.4diyP3.png
       :alt: AWS Console showing EC2 service.
       :align: center
       :width: 600px
@@ -44,7 +44,7 @@ After completing the lab, the player does DIY.
    * Select **lab/TravelAgencyWebServers** (the instance).
    * Select **Details** to view instance details.
 
-   .. image:: static/15.4diyP04.png
+   .. image:: static/15.4diyP4.png
       :alt: EC2 interface navigating to view instance details.
       :align: center
       :width: 600px
@@ -56,7 +56,7 @@ After completing the lab, the player does DIY.
    * Select **TravelAgencyWebServers** auto scaling group.
    * Select **Details** to see the details of the auto scaling group.
 
-   .. image:: static/15.4diyP05.png
+   .. image:: static/15.4diyP5.png
       :alt: EC2 interface navigating to view ASG details.
       :align: center
       :width: 600px
@@ -69,7 +69,7 @@ After completing the lab, the player does DIY.
    * Select **Instance management**.
    * View instance information.
 
-   .. image:: static/15.4diyP06.png
+   .. image:: static/15.4diyP6.png
       :alt: EC2 interface navigating to view ASG instances.
       :align: center
       :width: 600px
@@ -81,7 +81,7 @@ After completing the lab, the player does DIY.
    * Select **TravelAgencyWebServers**.
    * Select **Details** to view **Desired capacity**, **Minimum capacity**, **Maximum capacity**.
 
-   .. image:: static/15.4diyP07.png
+   .. image:: static/15.4diyP7.png
       :alt: EC2 interface showing ASG capacity details.
       :align: center
       :width: 600px
@@ -94,7 +94,7 @@ After completing the lab, the player does DIY.
    * In **Network**, see **Subnet ID** information.
    * In **Load balancing**, select **Edit**.
 
-   .. image:: static/15.4diyP08.png
+   .. image:: static/15.4diyP8.png
       :alt: EC2 interface viewing ASG network info and selecting edit load balancing.
       :align: center
       :width: 600px
@@ -104,7 +104,7 @@ After completing the lab, the player does DIY.
 
    * Select **Add a new load balancer**.
 
-   .. image:: static/15.4diyP09.png
+   .. image:: static/15.4diyP9.png
       :alt: Edit ASG interface showing Add a new load balancer option.
       :align: center
       :width: 600px

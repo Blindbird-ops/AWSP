@@ -12,7 +12,7 @@ After completing the lab, the player does DIY.
    * Read **SOLUTION VALIDATION METHOD**.
    * Select **Open AWS Console**.
 
-   .. image:: static/14.4diyP01.png
+   .. image:: static/14.4diyP1.png
       :alt: DIY interface showing instructions and Open AWS Console button.
       :align: center
       :width: 600px
@@ -23,7 +23,7 @@ After completing the lab, the player does DIY.
    * Find **EC2**.
    * Select **EC2**.
 
-   .. image:: static/14.4diyP02.png
+   .. image:: static/14.4diyP2.png
       :alt: AWS Console showing EC2 service.
       :align: center
       :width: 600px
@@ -33,7 +33,7 @@ After completing the lab, the player does DIY.
 
    * Select **Instances**.
 
-   .. image:: static/14.4diyP03.png
+   .. image:: static/14.4diyP3.png
       :alt: EC2 interface showing Instances link.
       :align: center
       :width: 600px
@@ -43,7 +43,7 @@ After completing the lab, the player does DIY.
 
    * View instances.
 
-   .. image:: static/14.4diyP04.png
+   .. image:: static/14.4diyP4.png
       :alt: EC2 interface showing instances list.
       :align: center
       :width: 600px
@@ -53,7 +53,7 @@ After completing the lab, the player does DIY.
 
    * Select **Security Groups**.
 
-   .. image:: static/14.4diyP05.png
+   .. image:: static/14.4diyP5.png
       :alt: EC2 interface showing Security Groups link.
       :align: center
       :width: 600px
@@ -63,7 +63,7 @@ After completing the lab, the player does DIY.
 
    * View **Security Groups**.
 
-   .. image:: static/14.4diyP06.png
+   .. image:: static/14.4diyP6.png
       :alt: EC2 Security Groups interface showing list of security groups.
       :align: center
       :width: 600px
@@ -73,7 +73,7 @@ After completing the lab, the player does DIY.
 
    * Select **Create security group**.
 
-   .. image:: static/14.4diyP07.png
+   .. image:: static/14.4diyP7.png
       :alt: EC2 Security Groups interface showing Create security group button.
       :align: center
       :width: 600px
@@ -83,7 +83,7 @@ After completing the lab, the player does DIY.
 
    * For **Security group name**, enter ``PetModels-EFS-1-SG``.
 
-   .. image:: static/14.4diyP08.png
+   .. image:: static/14.4diyP8.png
       :alt: Create security group interface showing name field.
       :align: center
       :width: 600px
@@ -93,7 +93,7 @@ After completing the lab, the player does DIY.
 
    * For **Description**, enter ``Restrict access to webservers only``. {# Correcting "Restric" #}
 
-   .. image:: static/14.4diyP09.png
+   .. image:: static/14.4diyP9.png
       :alt: Create security group interface showing description field.
       :align: center
       :width: 600px

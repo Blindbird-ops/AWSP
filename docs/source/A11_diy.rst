@@ -326,7 +326,7 @@ After completing the lab, the player does DIY.
    * For **scheduled-action-name**, enter ``SecondWaveOfRegulars``.
    * Select **VALIDATE**.
 
-   .. image:: static/14.4diyP32.png
+   .. image:: static/14.4diyP31.png
       :alt: DIY interface showing ASG name and scheduled action name entered for validation.
       :align: center
       :width: 600px
@@ -337,7 +337,7 @@ After completing the lab, the player does DIY.
    * **VALIDATION MESSAGE** appears **Nice!…**.
    * Select **EXIT** to exit.
 
-   .. image:: static/14.4diyP33.png
+   .. image:: static/14.4diyP32.png
       :alt: DIY interface showing validation success message and Exit button.
       :align: center
       :width: 600px
@@ -348,7 +348,7 @@ After completing the lab, the player does DIY.
    * Select **ASSIGNMENTS**.
    * Select **COLLECT**.
 
-   .. image:: static/14.4diyP34.png
+   .. image:: static/14.4diyP33.png
       :alt: City view showing Assignments and Collect options.
       :align: center
       :width: 600px
@@ -356,7 +356,7 @@ After completing the lab, the player does DIY.
 
 #. Select **NEXT**. {# This is step 35, with image 35 #}
 
-   .. image:: static/14.4diyP35.png
+   .. image:: static/14.4diyP34.png
       :alt: City view showing Next button.
       :align: center
       :width: 600px
@@ -364,7 +364,7 @@ After completing the lab, the player does DIY.
 
 #. Select **COLLECT**. {# This is step 36, with image 36 #}
 
-   .. image:: static/14.4diyP36.png
+   .. image:: static/14.4diyP35.png
       :alt: City view showing Collect button.
       :align: center
       :width: 600px
@@ -372,7 +372,7 @@ After completing the lab, the player does DIY.
 
 #. **Congratulations to the award-winning player!** {# This is step 37, with image 37 - making 36 total #}
 
-   .. image:: static/14.4diyP37.png
+   .. image:: static/14.4diyP36.png
       :alt: Congratulations screen for completing the lab.
       :align: center
       :width: 600px

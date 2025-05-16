@@ -1,4 +1,4 @@
-.. _a7_practice:
+.. _a10_practice:
 
 ========
 Practice
@@ -8,297 +8,530 @@ After watching Plan, the player prepares for Practice.
 
 #. In the **Practice** interface:
 
-   * Read step 1 of **Database in Practice**.
+   * Read step 1 of **First NoSQL Database**.
    * Read **CONCEPT**.
    * Select **START LAB**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR1.png
+   .. image:: static/13.3PracticeP1.png
       :alt: Practice interface showing step 1, concept, start lab, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Practice** interface:
+#. In the **Practice** interface: {# Correcting "Pracitce" #}
 
-   * Read step 2 of **Database in Practice**.
+   * Read step 2 of **First NoSQL Database**.
    * Read **CONCEPT**.
    * Select **Open AWS Console**.
+   * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR2.png
-      :alt: Practice interface showing step 2, concept, and Open AWS Console button.
+   .. image:: static/13.3PracticeP2.png
+      :alt: Practice interface showing step 2, concept, open console, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **AWS Console** interface:
 
-   * Find **RDS**.
-   * Select **RDS**.
+   * Find **DynamoDB**.
+   * Select **Amazon DynamoDB**. {# Correcting "DynamoDb" #}
 
-   .. image:: static/A7PR3.png
-      :alt: AWS console showing RDS service.
+   .. image:: static/13.3PracticeP3.png
+      :alt: AWS Console showing DynamoDB service.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 3 of **Database in Practice**.
-   * Select **CONCEPT**.
+   * Read step 3 of **First NoSQL Database**.
+   * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR4.png
+   .. image:: static/13.3PracticeP4.png
       :alt: Practice interface showing step 3, concept, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **DynamoDB** interface: {# Correcting "DynamoDb" #}
+
+   * Select **Create table**.
+
+   .. image:: static/13.3PracticeP5.png
+      :alt: DynamoDB interface showing Create table button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 4 of **Database in Practice**.
-   * Read **CONCEPT**.
+   * Read step 4 of **First NoSQL Database**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR5.png
-      :alt: Practice interface showing step 4, concept, and next arrow.
+   .. image:: static/13.3PracticeP6.png
+      :alt: Practice interface showing step 4 and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **RDS** interface:
+#. In the **Create table** interface:
 
-   * Select **Databases**.
-   * Select **Create database**.
-   * In **Choose a database creation method**, select **Standard create**.
-   * In **Engine options**, select **MariaDB**.
+   * For **Table name**, enter ``UserVideoHistory``.
+   * For **Partition key**, enter ``userId``, attribute **String**.
+   * For **Sort key**, enter ``lastDateWatched``, attribute **Number**.
 
-   .. image:: static/A7PR6.png
-      :alt: RDS dashboard showing create database options.
+   .. image:: static/13.3PracticeP7.png
+      :alt: Create table interface showing table name and key schema.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 5 of **Database in Practice**.
-   * Read **CONCEPT**.
+   * Read step 5 of **First NoSQL Database**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR7.png
-      :alt: Practice interface showing step 5, concept, and next arrow.
+   .. image:: static/13.3PracticeP8.png
+      :alt: Practice interface showing step 5 and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **RDS** interface:
+#. In the **Create table** interface:
 
-   * For **Version**, select **MariaDB 10.4.13**.
-   * For **Templates**, select **Dev/Test**.
+   * Select **Default settings**.
 
-   .. image:: static/A7PR8.png
-      :alt: RDS configuration showing version and template selection (first instance).
+   .. image:: static/13.3PracticeP9.png
+      :alt: Create table interface showing Default settings option.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **RDS** interface:
+#. In the **Create table** interface:
 
-   * For **Version**, select **MariaDB 10.4.13**.
-   * For **Templates**, select **Dev/Test**. {# This is the duplicate section from your original text #}
+   * Select **Create table**.
 
-   .. image:: static/A7PR9.png
-      :alt: RDS configuration showing version and template selection (second instance).
+   .. image:: static/13.3PracticeP10.png
+      :alt: Create table interface showing Create table button.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 6 of **Databases in Practice**.
+   * Read step 6 of **First NoSQL Database**.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR10.png
+   .. image:: static/13.3PracticeP11.png
       :alt: Practice interface showing step 6, concept, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **RDS** interface:
+#. In the **Tables** interface:
 
-   * For **DB instance identifier**, enter ``my-database``.
-   * For **Master username**, enter ``admin``.
-   * For **Master password**, enter ``123456789admin``.
-   * For **Confirm password**, enter ``123456789admin``.
+   * View **UserVideoHistory**.
+   * See **Status** as **Active**.
 
-   .. image:: static/A7PR11.png
-      :alt: RDS configuration showing instance identifier and credentials.
+   .. image:: static/13.3PracticeP12.png
+      :alt: DynamoDB Tables interface showing UserVideoHistory table status.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 7 of **Databases in Practice**.
+   * Read step 7 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP13.png
+      :alt: Practice interface showing step 7 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **UserVideoHistory** interface: {# Correcting "UseVideoHistory" #}
+
+   * Select **UserVideoHistory** (from the list).
+
+   .. image:: static/13.3PracticeP14.png
+      :alt: DynamoDB table list showing UserVideoHistory selected.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **UserVideoHistory** interface: {# Correcting "UseVideoHistory" #}
+
+   * Select **Actions**.
+
+   .. image:: static/13.3PracticeP15.png
+      :alt: UserVideoHistory interface showing Actions menu.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **UserVideoHistory** interface: {# Correcting "UseVideoHistory" #}
+
+   * Select **Create item**.
+
+   .. image:: static/13.3PracticeP16.png
+      :alt: UserVideoHistory Actions menu showing Create item option.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 8 of **First NoSQL Database**.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR12.png
-      :alt: Practice interface showing step 7, concept, and next arrow.
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
-
-#. In the **RDS** interface:
-
-   * In **DB instance class**, select **Burstable classes (includes t classes)**.
-   * Select **db.t3.large**.
-
-   .. image:: static/A7PR13.png
-      :alt: RDS configuration showing instance class selection.
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
-
-#. In the **RDS** interface:
-
-   * In **Storage type**, select **General Purpose SSD (gp2)**.
-   * In **Allocated storage**, enter ``20``.
-
-   .. image:: static/A7PR14.png
-      :alt: RDS configuration showing storage settings.
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
-
-#. In the **Practice** interface:
-
-   * Read step 8 of **Databases in Practice**.
-   * Select **CONCEPT**.
-   * Select the arrow to the right to see the next steps.
-
-   .. image:: static/A7PR15.png
+   .. image:: static/13.3PracticeP17.png
       :alt: Practice interface showing step 8, concept, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **RDS** interface:
+#. In the **Create item** interface:
 
-   * In **Storage autoscaling**, select **Enable storage autoscaling**.
-   * In **Maximum storage threshold**, enter ``1000``.
-   * In **Multi-AZ deployment**, select **Create a standby instance (recommended production usage)**.
+   * For **userId**, enter ``12345-abcd-6789``.
 
-   .. image:: static/A7PR16.png
-      :alt: RDS configuration showing storage autoscaling and Multi-AZ.
+   .. image:: static/13.3PracticeP18.png
+      :alt: Create item interface showing userId entry.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * For **lastDateWatched**, enter ``1619156406``.
+
+   .. image:: static/13.3PracticeP19.png
+      :alt: Create item interface showing lastDateWatched entry.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface: {# Correcting "Practicalce" #}
+
+   * Read step 9 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP20.png
+      :alt: Practice interface showing step 9 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **Add new attribute**.
+
+   .. image:: static/13.3PracticeP21.png
+      :alt: Create item interface showing Add new attribute button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **String** (for the new attribute type).
+
+   .. image:: static/13.3PracticeP22.png
+      :alt: Create item interface showing String attribute type selected.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 9 of **Databases in Practice**.
-   * Read **CONCEPT**.
+   * Read step 10 of **First NoSQL Database**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR17.png
-      :alt: Practice interface showing step 9, concept, and next arrow.
+   .. image:: static/13.3PracticeP23.png
+      :alt: Practice interface showing step 10 and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Connectivity** interface:
+#. In the **Create item** interface:
 
-   * Choose the default **VPC**.
-   * Select the default **Subnet group**.
+   * For **Attribute name**, enter ``videoId``.
 
-   .. image:: static/A7PR18.png
-      :alt: RDS configuration showing VPC and Subnet group selection.
+   .. image:: static/13.3PracticeP24.png
+      :alt: Create item interface showing videoId attribute name entry.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Connectivity** interface:
+#. In the **Create item** interface:
 
-   * In **Public access**, select **No**.
+   * For **Value**, enter ``9875-djac-1859``.
 
-   .. image:: static/A7PR19.png
-      :alt: RDS configuration showing Public access setting.
+   .. image:: static/13.3PracticeP25.png
+      :alt: Create item interface showing videoId value entry.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
-
-#. In the **Connectivity** interface:
-
-   * In **VPC security group**, select **Choose existing**.
-
-   .. image:: static/A7PR20.png
-      :alt: RDS configuration showing VPC security group selection.
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
-
-#. In the **Connectivity** interface:
-
-   * In **Existing VPC security groups**, select **default**.
-
-   .. image:: static/A7PR21.png
-      :alt: RDS configuration showing existing default security group selection.
-      :align: center
-      :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
 #. In the **Practice** interface:
 
-   * Read step 10 of **Databases in Practice**.
+   * Read step 11 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP26.png
+      :alt: Practice interface showing step 11 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **Add new attribute**.
+
+   .. image:: static/13.3PracticeP27.png
+      :alt: Create item interface showing Add new attribute button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **String** (for the new attribute type).
+
+   .. image:: static/13.3PracticeP28.png
+      :alt: Create item interface showing String attribute type selected.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 12 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP29.png
+      :alt: Practice interface showing step 12 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * For **Attribute name**, enter ``preferredLanguage``.
+
+   .. image:: static/13.3PracticeP30.png
+      :alt: Create item interface showing preferredLanguage attribute name entry.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * For **Value**, enter ``English``.
+
+   .. image:: static/13.3PracticeP31.png
+      :alt: Create item interface showing preferredLanguage value entry.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 13 of **First NoSQL Database**.
    * Read **CONCEPT**.
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR22.png
-      :alt: Practice interface showing step 10, concept, and next arrow.
+   .. image:: static/13.3PracticeP32.png
+      :alt: Practice interface showing step 13, concept, and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Additional configuration** interface:
+#. In the **Create item** interface:
 
-   * In **Initial database name**, enter ``my_database``.
+   * Select **Add new attribute**.
 
-   .. image:: static/A7PR23.png
-      :alt: RDS configuration showing initial database name field.
+   .. image:: static/13.3PracticeP33.png
+      :alt: Create item interface showing Add new attribute button.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Additional configuration** interface:
+#. In the **Create item** interface:
 
-   * In **DB parameter group**, select **default:mariadb-10-4**.
+   * Select **List**.
 
-   .. image:: static/A7PR24.png
-      :alt: RDS configuration showing DB parameter group selection.
+   .. image:: static/13.3PracticeP34.png
+      :alt: Create item interface showing List attribute type selected.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Additional configuration** interface:
+#. In the **Practice** interface:
 
-   * In **Option group**, select **default:mariadb-10-4**.
+   * Read step 14 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
 
-   .. image:: static/A7PR25.png
-      :alt: RDS configuration showing Option group selection.
+   .. image:: static/13.3PracticeP35.png
+      :alt: Practice interface showing step 14 and next arrow.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
 
-#. In the **Additional configuration** interface:
+#. In the **Create item** interface:
 
-   * In **Backup**, select **Enable automated backups**.
-   * In **Backup window**, select **No preference**.
-   * Select **Copy tags to snapshots**.
+   * For **Attribute**, enter ``supportedDeviceTypes``.
 
-   .. image:: static/A7PR26.png
-      :alt: RDS configuration showing backup settings.
+   .. image:: static/13.3PracticeP36.png
+      :alt: Create item interface showing supportedDeviceTypes attribute name entry.
       :align: center
       :width: 600px
-      :target: https://000300.awsstudygroup.com/7-database/7.3-practice/ {# Replace with actual URL #}
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 15 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP37.png
+      :alt: Practice interface showing step 15 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * In **Value**, select **Insert a field**.
+
+   .. image:: static/13.3PracticeP38.png
+      :alt: Create item interface showing Insert a field option for List value.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **String** (for the list item type).
+
+   .. image:: static/13.3PracticeP39.png
+      :alt: Create item interface showing String type selected for list item.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface: {# Ignoring out-of-sequence "Read step 3" #}
+
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP40.png
+      :alt: Practice interface showing next arrow selection.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Enter ``Amazon Fire TV``.
+
+   .. image:: static/13.3PracticeP41.png
+      :alt: Create item interface showing first list item value entry.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 17 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP42.png
+      :alt: Practice interface showing step 17 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **Insert a field** (for the next list item).
+
+   .. image:: static/13.3PracticeP43.png
+      :alt: Create item interface showing Insert a field option for list.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **String** (for the next list item type).
+
+   .. image:: static/13.3PracticeP44.png
+      :alt: Create item interface showing String type selected for list item.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface:
+
+   * Read step 18 of **First NoSQL Database**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP45.png
+      :alt: Practice interface showing step 18 and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Enter ``Amazon Fire Tablet``.
+
+   .. image:: static/13.3PracticeP46.png
+      :alt: Create item interface showing second list item value entry.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Create item** interface:
+
+   * Select **Create item**.
+
+   .. image:: static/13.3PracticeP47.png
+      :alt: Create item interface showing Create item button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **Practice** interface: {# Ignoring out-of-sequence "Read step 3" #}
+
+   * Read **CONCEPT**.
+   * Select the arrow to the right to see the next steps.
+
+   .. image:: static/13.3PracticeP48.png
+      :alt: Practice interface showing concept read and next arrow.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. In the **DynamoDB** interface:
+
+   * Select **Explore items**.
+   * Select **UserVideoHistory**.
+   * View **Items returned**.
+
+   .. image:: static/13.3PracticeP49.png
+      :alt: DynamoDB interface showing Explore items, UserVideoHistory table selected, and items returned.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}
+
+#. **Congratulations to the player on completing the lab!**
+
+   .. image:: static/13.3PracticeP50.png
+      :alt: Congratulations screen for completing the lab.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/10-databases/10.3-practice/ {# Replace with actual URL #}

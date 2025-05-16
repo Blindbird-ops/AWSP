@@ -518,7 +518,7 @@ After completing the lab, the player does DIY.
       :width: 600px
       :target: https://000300.awsstudygroup.com/9-storage/9.4-diy/ {# Replace with actual URL #}
 
-#. Select **COLLECT**. {# As per your explicit instruction for step 51 #}
+#. Select **COLLECT**. 
 
    .. image:: static/12.4diyP51.png
       :alt: City interface showing Collect button.

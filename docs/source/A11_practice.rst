@@ -10,7 +10,7 @@ After watching Plan, the player prepares for Practice.
 
    * Read step 1 of **Auto-healing and Scaling Applications**.
 
-   .. image:: static/14.3PracticeP01.png
+   .. image:: static/14.3PracticeP1.png
       :alt: Practice interface showing step 1 read.
       :align: center
       :width: 600px
@@ -20,7 +20,7 @@ After watching Plan, the player prepares for Practice.
 
    * Read **CONCEPT**.
 
-   .. image:: static/14.3PracticeP02.png
+   .. image:: static/14.3PracticeP2.png
       :alt: Practice interface showing Concept read.
       :align: center
       :width: 600px
@@ -30,7 +30,7 @@ After watching Plan, the player prepares for Practice.
 
    * Select **START LAB**.
 
-   .. image:: static/14.3PracticeP03.png
+   .. image:: static/14.3PracticeP3.png
       :alt: Practice interface showing Start Lab button.
       :align: center
       :width: 600px
@@ -40,7 +40,7 @@ After watching Plan, the player prepares for Practice.
 
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/14.3PracticeP04.png
+   .. image:: static/14.3PracticeP4.png
       :alt: Practice interface showing next arrow selection.
       :align: center
       :width: 600px
@@ -50,7 +50,7 @@ After watching Plan, the player prepares for Practice.
 
    * Read step 2 of **Auto-healing and Scaling Applications**.
 
-   .. image:: static/14.3PracticeP05.png
+   .. image:: static/14.3PracticeP5.png
       :alt: Practice interface showing step 2 read.
       :align: center
       :width: 600px
@@ -60,7 +60,7 @@ After watching Plan, the player prepares for Practice.
 
    * Read **CONCEPT**.
 
-   .. image:: static/14.3PracticeP06.png
+   .. image:: static/14.3PracticeP6.png
       :alt: Practice interface showing Concept read.
       :align: center
       :width: 600px
@@ -70,7 +70,7 @@ After watching Plan, the player prepares for Practice.
 
    * Select **Open AWS Console**.
 
-   .. image:: static/14.3PracticeP07.png
+   .. image:: static/14.3PracticeP7.png
       :alt: Practice interface showing Open AWS Console button.
       :align: center
       :width: 600px
@@ -80,7 +80,7 @@ After watching Plan, the player prepares for Practice.
 
    * Select the arrow to the right to see the next steps.
 
-   .. image:: static/14.3PracticeP08.png
+   .. image:: static/14.3PracticeP8.png
       :alt: Practice interface showing next arrow selection.
       :align: center
       :width: 600px
@@ -90,7 +90,7 @@ After watching Plan, the player prepares for Practice.
 
    * Find **EC2**.
 
-   .. image:: static/14.3PracticeP09.png
+   .. image:: static/14.3PracticeP9.png
       :alt: AWS Console showing EC2 search.
       :align: center
       :width: 600px

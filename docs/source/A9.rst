@@ -1,0 +1,72 @@
+.. _a9_file_systems:
+
+==================
+A9 - File Systems
+==================
+
+Overview
+--------
+Lab number 9 of AWS Cloud Quest: Cloud Practitioner is File System in the Cloud using Amazon EFS.
+
+Content
+--------
+.. toctree::
+    :maxdepth: 2
+
+    A9_learn
+    A9_plan
+    A9_practice
+    A9_diy
+
+#. In the **city interface**:
+
+   * Select **ASSIGNMENTS**.
+   * Select **ROUTE AND GO**.
+
+   .. image:: static/12A9P1.png
+      :alt: City interface showing Assignments and Route and Go options.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/9-storage/9.x-y/ {# Replace with actual URL #}
+
+#. In the **city interface**:
+
+   * Select the ``!`` icon.
+
+   .. image:: static/12A9P2.png
+      :alt: City interface showing the exclamation mark icon.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/9-storage/9.x-y/ {# Replace with actual URL #}
+
+#. In the **File System in the Cloud** interface:
+
+   * View **Rewards**.
+   * Select **NEXT**.
+
+   .. image:: static/12A9P3.png
+      :alt: File System in the Cloud interface showing rewards and next button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/9-storage/9.x-y/ {# Replace with actual URL #}
+
+#. In the **File Systems in the Cloud** interface:
+
+   * See **Solution Annotations**.
+   * Select **ACCEPT**.
+
+   .. image:: static/12A9P4.png
+      :alt: File Systems in the Cloud interface showing solution annotations and accept button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/9-storage/9.x-y/ {# Replace with actual URL #}
+
+#. In the **File Systems in the Cloud** interface:
+
+   * Select **GO TO SOLUTION CENTER** to prepare the next steps.
+
+   .. image:: static/12A9P5.png
+      :alt: File Systems in the Cloud interface showing Go To Solution Center button.
+      :align: center
+      :width: 600px
+      :target: https://000300.awsstudygroup.com/9-storage/9.x-y/ {# Replace with actual URL #}

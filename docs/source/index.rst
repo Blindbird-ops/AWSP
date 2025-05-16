@@ -34,4 +34,7 @@ For instructions on how to use this project, refer to the :ref:`usage` section.
    A7
    A8
    A9
+   A10
+   A11
+   A12
 
